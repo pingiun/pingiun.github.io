@@ -1,1 +1,6 @@
-theme: jekyll-theme-minimal
+title: Jelle Besseling
+theme: jekyll-theme-primer
+
+# Author information
+jelle:
+  name: Jelle Besseling

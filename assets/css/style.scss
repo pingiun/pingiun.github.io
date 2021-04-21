@@ -1,0 +1,10 @@
+---
+---
+
+$container-lg: 70ch;
+
+@import "{{ site.theme }}";
+
+.byline {
+	margin-bottom: 16px;
+}

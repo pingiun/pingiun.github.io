@@ -13,5 +13,3 @@ These are my latest posts:
     </li>
   {% endfor %}
 </ul>
-
-I also have this other website: [pingiun.com](https://pingiun.com). Credit goes to my friend who made the site.
